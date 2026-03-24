@@ -21,7 +21,7 @@
   },
   
   "adminBot": [
-    "61582101006304",
+    "100088850810623",
     "61585880314350"
   ],
   "whiteListMode": {
@@ -30,7 +30,7 @@
     "notes": "if you enable this feature, only the ids in the whiteListIds section can use the bot"
   },
   "nickNameBot": "‌🅖𝗨𝗠𝗕𝗔𝗟𝗟 🅑𝗢𝗧 🩵🪽",
-  "prefix": "¥",
+  "prefix": "£",
   "database": {
     "type": "mongodb",
     "uriMongodb": "mongodb+srv://shipuaimirai:chitron%402448766@shipuaimiraibot.nwesgqa.mongodb.net/?retryWrites=true&w=majority&appName=ShiPuAiMiraiBot",
